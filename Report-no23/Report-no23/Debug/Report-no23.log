@@ -1,0 +1,3 @@
+﻿  1925059022-no2.cpp
+C:\Users\norim\source\repos\Report-no23\Report-no23\1925059022-no2.cpp(198,29): warning C4305: '引数': 'double' から 'GLclampf' へ切り詰めます。
+  Report-no23.vcxproj -> C:\Users\norim\source\repos\Report-no23\Debug\Report-no23.exe
